@@ -1,2 +1,3 @@
 # Trait-prediction-
 Trait prediction (NLP project)
+Personality prediction is a challenging task that has attracted significant attention from the machine learning community. In this project, I explored the use of several machine learning models, including logistic regression, decision tree, random forest, XGBoost and linearSVC, to predict personality traits based on textual data. I used the term frequency-inverse document frequency (tf-idf) representation to extract features from the data and evaluated the performance of the models using multiple metrics, including F1 score and confusion matrix(we focused on F1-score since data was imbalanced). Additionally, I used regularization techniques to prevent overfitting and address the high dimensionality of the feature space.
